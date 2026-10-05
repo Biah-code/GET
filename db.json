@@ -1,0 +1,20 @@
+{
+  "pessoas": [
+    {
+      "id": "1",
+      "nome": "Beatriz",
+      "senha": "02062010"
+    },
+    {
+      "nome": "Lauryn",
+      "senha": "17042007",
+      "id": "jauwlF0en8c"
+    },
+    {
+      "nome": "Isabele",
+      "senha": "18082008",
+      "id": "cQeSH2C5jwI"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
